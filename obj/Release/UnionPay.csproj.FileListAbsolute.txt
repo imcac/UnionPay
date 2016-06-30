@@ -1,0 +1,7 @@
+D:\WorkSpace\CAXA\THMJ\UnionPay\bin\Release\UnionPay.dll
+D:\WorkSpace\CAXA\THMJ\UnionPay\bin\Release\UnionPay.pdb
+D:\WorkSpace\CAXA\THMJ\UnionPay\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\CAXA\THMJ\UnionPay\bin\Release\log4net.dll
+D:\WorkSpace\CAXA\THMJ\UnionPay\obj\Release\UnionPay.csprojResolveAssemblyReference.cache
+D:\WorkSpace\CAXA\THMJ\UnionPay\obj\Release\UnionPay.dll
+D:\WorkSpace\CAXA\THMJ\UnionPay\obj\Release\UnionPay.pdb
